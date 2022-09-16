@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.rinh.gsqlhelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.rinh.gsqlhelper.MyBundle
 
 class MyApplicationService {
 
